@@ -1,0 +1,431 @@
+{
+    "positions" : [
+        {
+            "title": "1",
+            "content": "<div>카카오</div>",
+            "latlng": "",
+            "lat": 37.274250,
+            "lng": 127.090210
+        },
+        {
+            "title": "2",
+            "content": "<div>생태연못</div>",
+            "latlng": "",
+            "lat": 37.274239,
+            "lng": 127.088020
+        },
+        {
+            "title": "3", 
+            "content": "<div>텃밭</div>",
+            "latlng": "",
+            "lat": 37.274750,
+            "lng": 127.083336
+        },
+        {
+            "title": "4",
+            "content": "<div>근린공원</div>",
+            "latlng": "",
+            "lat": 37.275951,
+            "lng": 127.079277
+        },
+        {
+            "title": "5",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.277794,
+            "lng": 127.077568
+        },
+        {
+            "title": "6",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.278202,
+            "lng": 127.074471
+        },
+        {
+            "title": "7",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.276272,
+            "lng": 127.072159
+        },
+        {
+            "title": "8",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275696,
+            "lng": 127.071129
+        },
+        {
+            "title": "9",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.274326,
+            "lng": 127.069916
+        },
+        {
+            "title": "10",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.273132,
+            "lng": 127.068871
+        },
+        {
+            "title": "11",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.270569,
+            "lng": 127.068314
+        },
+        {
+            "title": "12",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.268852,
+            "lng": 127.066544
+        },
+        {
+            "title": "13",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.269615,
+            "lng": 127.062798
+        },
+        {
+            "title": "14",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.270847,
+            "lng": 127.059586
+        },
+        {
+            "title": "15",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.271561,
+            "lng": 127.057709
+        },
+        {
+            "title": "16",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.272411,
+            "lng": 127.055405
+        },
+        {
+            "title": "17",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.273468,
+            "lng": 127.051132
+        },
+        {
+            "title": "18",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.273849,
+            "lng": 127.047165
+        },
+        {
+            "title": "19",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275299,
+            "lng": 127.042351
+        },
+        {
+            "title": "20",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.276115,
+            "lng": 127.039825
+        },
+        {
+            "title": "21",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.276985,
+            "lng": 127.036980
+        },
+        {
+            "title": "22",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.277504,
+            "lng": 127.035149
+        },
+        {
+            "title": "23",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.278275,
+            "lng": 127.029411
+        },
+        {
+            "title": "24",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.277035,
+            "lng": 127.027245
+        },
+        {
+            "title": "25",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275345,
+            "lng": 127.021454
+        },
+        {
+            "title": "26",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275269,
+            "lng": 127.018547
+        },
+        {
+            "title": "27",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.272144,
+            "lng": 127.015167
+        },
+        {
+            "title": "28",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.270649,
+            "lng": 127.011726
+        },
+        {
+            "title": "29",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.268883,
+            "lng": 127.007072
+        },
+        {
+            "title": "30",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.267765,
+            "lng": 127.004135
+        },
+        {
+            "title": "31",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.267448,
+            "lng": 127.000793
+        },
+        {
+            "title": "32",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.268154,
+            "lng": 127.000779
+        },
+        {
+            "title": "33",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.266502,
+            "lng": 127.000732
+        },
+        {
+            "title": "34",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.267399,
+            "lng": 127.003372
+        },
+        {
+            "title": "35",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.269047,
+            "lng": 127.007721
+        },
+        {
+            "title": "36",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.270714,
+            "lng": 127.012070
+        },
+        {
+            "title": "37",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.271622,
+            "lng": 127.014168
+        },
+        {
+            "title": "38",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275200,
+            "lng": 127.018089
+        },
+        {
+            "title": "39",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275375,
+            "lng": 127.022339
+        },
+        {
+            "title": "40",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.276436,
+            "lng": 127.026085
+        },
+        {
+            "title": "41",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.277908,
+            "lng": 127.028656
+        },
+        {
+            "title": "42",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.277744,
+            "lng": 127.033981
+        },
+        {
+            "title": "43",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.277012,
+            "lng": 127.036659
+        },
+        {
+            "title": "44",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.276089,
+            "lng": 127.039719
+        },
+        {
+            "title": "45",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275311,
+            "lng": 127.042099
+        },
+        {
+            "title": "46",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.274517,
+            "lng": 127.044579
+        },
+        {
+            "title": "47",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.273933,
+            "lng": 127.046600
+        },
+        {
+            "title": "48",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.273361,
+            "lng": 127.051445
+        },
+        {
+            "title": "49",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.272209,
+            "lng": 127.055603
+        },
+        {
+            "title": "50",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.270908,
+            "lng": 127.059113
+        },
+        {
+            "title": "51",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.269566,
+            "lng": 127.062607
+        },
+        {
+            "title": "52",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.269176,
+            "lng": 127.068138
+        },
+        {
+            "title": "53",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.272728,
+            "lng": 127.068878
+        },
+        {
+            "title": "54",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.274288,
+            "lng": 127.069977
+        },
+        {
+            "title": "55",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275799,
+            "lng": 127.071213
+        },
+        {
+            "title": "56",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.276211,
+            "lng": 127.072311
+        },
+        {
+            "title": "57",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.278141,
+            "lng": 127.074516
+        },
+        {
+            "title": "58",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.277683,
+            "lng": 127.077736
+        },
+        {
+            "title": "59",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.275757,
+            "lng": 127.079964
+        },
+        {
+            "title": "60",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.274452,
+            "lng": 127.083862
+        },
+        {
+            "title": "61",
+            "content": "<div>bus stop</div>",
+            "latlng": "",
+            "lat": 37.274166,
+            "lng": 127.088219
+        }
+    ]
+}
