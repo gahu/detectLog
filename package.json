@@ -14,7 +14,7 @@
     "core-js": "^3.6.4",
     "hchs-vue-charts": "^1.2.8",
     "load-script-once": "^2.0.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "numeral": "^2.0.6",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.11",
